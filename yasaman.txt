@@ -3,3 +3,4 @@ Fav Animal: lion
 Fav city: SF
 Fav color:red 
 Copyright: na
+Fav noise: waves
